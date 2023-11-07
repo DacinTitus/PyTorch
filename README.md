@@ -433,6 +433,10 @@ Sending a PR without discussion might end up resulting in a rejected PR because 
 
 To learn more about making a contribution to Pytorch, please see our [Contribution page](CONTRIBUTING.md).
 
+For those new to contributing, please take a look at any issues tagged as a good first issue [here](https://github.com/pytorch/pytorch/labels/good%20first%20issue).
+By checking the closed tab you can get an idea of how we like this process to go. If any questions arise while tackling an issue, our active community will be available
+to provide guidance, so please feel free to dive in and contribute in any way possible. 
+
 ## The Team
 
 PyTorch is a community-driven project with several skillful engineers and researchers contributing to it.
